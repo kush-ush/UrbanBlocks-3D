@@ -1,0 +1,101 @@
+PlotID,X,Y,Area,Zone,Subtype
+0,0,0,126,Road,Road
+1,1,0,92,Road,Road
+2,2,0,101,Road,Road
+3,3,0,131,Road,Road
+4,4,0,124,Road,Road
+5,5,0,136,Road,Road
+6,6,0,149,Road,Road
+7,7,0,148,Road,Road
+8,8,0,150,Road,Road
+9,9,0,140,Road,Road
+10,0,1,107,Road,Road
+11,1,1,128,Residential,Apartment
+12,2,1,88,Green,Park
+13,3,1,149,Road,Road
+14,4,1,144,Residential,Apartment
+15,5,1,92,Residential,Apartment
+16,6,1,117,Road,Road
+17,7,1,89,Green,Park
+18,8,1,81,Green,Park
+19,9,1,110,Road,Road
+20,0,2,139,Road,Road
+21,1,2,144,Residential,Apartment
+22,2,2,96,Residential,Apartment
+23,3,2,106,Road,Road
+24,4,2,85,Commercial,Mall
+25,5,2,90,Commercial,Mall
+26,6,2,96,Road,Road
+27,7,2,141,Residential,Apartment
+28,8,2,113,Commercial,Mall
+29,9,2,144,Road,Road
+30,0,3,122,Road,Road
+31,1,3,92,Road,Road
+32,2,3,104,Road,Road
+33,3,3,119,Road,Road
+34,4,3,120,Road,Road
+35,5,3,103,Road,Road
+36,6,3,124,Road,Road
+37,7,3,129,Road,Road
+38,8,3,100,Road,Road
+39,9,3,93,Road,Road
+40,0,4,140,Road,Road
+41,1,4,97,Green,Park
+42,2,4,140,Residential,Apartment
+43,3,4,94,Road,Road
+44,4,4,126,Commercial,Local Shop
+45,5,4,101,Residential,Apartment
+46,6,4,131,Road,Road
+47,7,4,136,Residential,Apartment
+48,8,4,104,Residential,Apartment
+49,9,4,139,Road,Road
+50,0,5,91,Road,Road
+51,1,5,89,Green,Park
+52,2,5,137,Residential,Independent House
+53,3,5,139,Road,Road
+54,4,5,98,Residential,Independent House
+55,5,5,119,Commercial,Local Shop
+56,6,5,107,Road,Road
+57,7,5,124,Residential,Independent House
+58,8,5,140,Green,Park
+59,9,5,125,Road,Road
+60,0,6,149,Road,Road
+61,1,6,120,Road,Road
+62,2,6,113,Road,Road
+63,3,6,84,Road,Road
+64,4,6,91,Road,Road
+65,5,6,145,Road,Road
+66,6,6,133,Road,Road
+67,7,6,97,Road,Road
+68,8,6,106,Road,Road
+69,9,6,135,Road,Road
+70,0,7,89,Road,Road
+71,1,7,82,Residential,Independent House
+72,2,7,127,Residential,Independent House
+73,3,7,81,Road,Road
+74,4,7,124,Commercial,Local Shop
+75,5,7,148,Residential,Independent House
+76,6,7,89,Road,Road
+77,7,7,88,Residential,Independent House
+78,8,7,123,Commercial,Local Shop
+79,9,7,107,Road,Road
+80,0,8,122,Road,Road
+81,1,8,119,Commercial,Local Shop
+82,2,8,137,Residential,Independent House
+83,3,8,106,Road,Road
+84,4,8,80,Commercial,Local Shop
+85,5,8,102,Residential,Independent House
+86,6,8,125,Road,Road
+87,7,8,139,Commercial,Local Shop
+88,8,8,142,Green,Park
+89,9,8,89,Road,Road
+90,0,9,91,Road,Road
+91,1,9,85,Road,Road
+92,2,9,137,Road,Road
+93,3,9,136,Road,Road
+94,4,9,92,Road,Road
+95,5,9,134,Road,Road
+96,6,9,132,Road,Road
+97,7,9,118,Road,Road
+98,8,9,85,Road,Road
+99,9,9,87,Road,Road
