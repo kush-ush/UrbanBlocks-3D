@@ -78,7 +78,7 @@ Kushal S Gowda – (https://github.com/kush-ush) – Lead Developer, Research Au
 
 Kumar Yash – Data Preprocessing/Analyst and UI Designer
 
-##📝 Citation
+📝 Citation
 If you use this project, please cite:
 
 Kushal S Gowda, Kumar Yash.
@@ -88,6 +88,7 @@ UrbanBlocks 3D: A Genetic Algorithm-Based Semantic Zoning System for Smart City 
  📧 kushalsgowda.ai23@rvce.edu.in
  🌐 (https://github.com/kush-ush)
 
+ ---
 🌍 UN SDG Alignment
 ✅ Supports UN SDG 11: Sustainable Cities and Communities
 Enables planners to design urban zones that are inclusive, accessible, and environmentally balanced.
