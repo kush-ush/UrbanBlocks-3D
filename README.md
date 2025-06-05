@@ -78,7 +78,7 @@ Kushal S Gowda – (https://github.com/kush-ush) – Lead Developer, Research Au
 
 Kumar Yash – Data Preprocessing/Analyst and UI Designer
 
-📝 Citation
+## 📝 Citation
 If you use this project, please cite:
 
 Kushal S Gowda, Kumar Yash.
