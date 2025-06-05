@@ -76,7 +76,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ``` 
-##✍️ Authors
+## ✍️ Authors
 Kushal S Gowda – (https://github.com/kush-ush) – Lead Developer, Research Author
 
 Kumar Yash – Data Preprocessing/Analyst and UI Designer
