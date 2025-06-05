@@ -53,9 +53,7 @@ UrbanBlocks-3D/
 ├── /output/ ← Zone maps, reports
 └── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -69,17 +67,18 @@ Edit
 
 To run locally:
 
-```bash
+
 git clone https://github.com/kush-ush/UrbanBlocks-3D.git
 cd UrbanBlocks-3D
 pip install -r requirements.txt
 streamlit run app.py
-✍️ Authors
+
+## ✍️ Authors
 Kushal S Gowda – GitHub – Lead Developer, Research Author
 
 Kumar Yash – Team Member
 
-📝 Citation
+##📝 Citation
 If you use this project, please cite:
 
 Kushal S Gowda, Kumar Yash. UrbanBlocks 3D: A Genetic Algorithm-Based Semantic Zoning System for Smart City Planning, 2025. (Under Review – IEEE)
