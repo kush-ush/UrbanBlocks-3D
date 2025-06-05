@@ -2,7 +2,7 @@
 
 **UrbanBlocks 3D** is an AI-powered smart city zoning simulator that uses **Genetic Algorithms** and **Explainable AI** to generate optimal urban layouts under zoning constraints. The system aligns with **UN SDG 11** by enabling sustainable, inclusive, and balanced urban planning.
 
-🌐 **Live Demo:** [Click to try the deployed web app]((https://urbanblocks-3d.streamlit.app/)
+🌐 **Live Demo:** [Click to try the deployed web app](https://urbanblocks-3d.streamlit.app/))
 
 ![Zoning Layout Screenshot](output/zoning_map.png)
 
@@ -42,4 +42,54 @@
 ---
 
 ## 🗂️ Folder Structure
+
+UrbanBlocks-3D/
+├── app.py ← Main dashboard
+├── zoning_engine.py ← Genetic Algorithm logic
+├── utils.py ← Visualization, scoring, explainability
+├── requirements.txt
+├── /assets/ ← UI icons (optional)
+├── /data/ ← Input configs (optional)
+├── /output/ ← Zone maps, reports
+└── README.md
+
+yaml
+Copy
+Edit
+
+---
+
+## 📸 Screenshots
+
+<img src="output/zoning_map.png" width="650"/>
+
+---
+
+## 📦 Installation
+
+To run locally:
+
+```bash
+git clone https://github.com/kush-ush/UrbanBlocks-3D.git
+cd UrbanBlocks-3D
+pip install -r requirements.txt
+streamlit run app.py
+✍️ Authors
+Kushal S Gowda – GitHub – Lead Developer, Research Author
+
+Kumar Yash – Team Member
+
+📝 Citation
+If you use this project, please cite:
+
+Kushal S Gowda, Kumar Yash. UrbanBlocks 3D: A Genetic Algorithm-Based Semantic Zoning System for Smart City Planning, 2025. (Under Review – IEEE)
+
+📬 Contact
+📧 kushalsgowda.ai23@rvce.edu.in
+🌐 GitHub
+
+🌍 UN SDG Alignment
+✅ Supports UN SDG 11: Sustainable Cities and Communities
+Enables planners to design urban zones that are inclusive, accessible, and environmentally balanced.
+
 
