@@ -74,18 +74,19 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## ✍️ Authors
-Kushal S Gowda – GitHub – Lead Developer, Research Author
+Kushal S Gowda – (https://github.com/kush-ush) – Lead Developer, Research Author
 
-Kumar Yash – Team Member
+Kumar Yash – Data Preprocessing/Analyst and UI Designer
 
 ##📝 Citation
 If you use this project, please cite:
 
-Kushal S Gowda, Kumar Yash. UrbanBlocks 3D: A Genetic Algorithm-Based Semantic Zoning System for Smart City Planning, 2025. (Under Review – IEEE)
+Kushal S Gowda, Kumar Yash.
+UrbanBlocks 3D: A Genetic Algorithm-Based Semantic Zoning System for Smart City Planning, 2025. (Under Review – IEEE)
 
-📬 Contact
-📧 kushalsgowda.ai23@rvce.edu.in
-🌐 GitHub
+📬 Contact:
+ 📧 kushalsgowda.ai23@rvce.edu.in
+ 🌐 (https://github.com/kush-ush)
 
 🌍 UN SDG Alignment
 ✅ Supports UN SDG 11: Sustainable Cities and Communities
