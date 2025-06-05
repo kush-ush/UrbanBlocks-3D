@@ -2,7 +2,7 @@
 
 **UrbanBlocks 3D** is an AI-powered smart city zoning simulator that uses **Genetic Algorithms** and **Explainable AI** to generate optimal urban layouts under zoning constraints. The system aligns with **UN SDG 11** by enabling sustainable, inclusive, and balanced urban planning.
 
-🌐 **Live Demo:** [Click to try the deployed web app](https://urbanblocks-3d.streamlit.app/))
+🌐 **Live Demo:** [Click to try the deployed web app](https://urbanblocks-3d.streamlit.app/)
 
 ![Zoning Layout Screenshot](output/zoning_map.png)
 
@@ -59,21 +59,24 @@ UrbanBlocks-3D/
 
 ## 📸 Screenshots
 
-<img src="output/zoning_map.png" width="650"/>
+<img src="output/zoning_map.png" alt="Sample Zoning Layout" width="650"/>
+
 
 ---
+
 
 ## 📦 Installation
 
 To run locally:
 
-
+```bash
 git clone https://github.com/kush-ush/UrbanBlocks-3D.git
 cd UrbanBlocks-3D
 pip install -r requirements.txt
 streamlit run app.py
 
-## ✍️ Authors
+``` 
+##✍️ Authors
 Kushal S Gowda – (https://github.com/kush-ush) – Lead Developer, Research Author
 
 Kumar Yash – Data Preprocessing/Analyst and UI Designer
